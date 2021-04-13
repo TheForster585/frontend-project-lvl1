@@ -1,7 +1,17 @@
 import { randomNumber, name, answer } from '../src/index.js';
 
 const operators = ['+', '-', '*'];
-const expectedAnswer = (question) => String(eval(question));
+const expectedAnswer = (firstNumber, secondNumber, operator) => {
+  switch (operator) {
+    case '+':
+      return String(firstNumber + secondNumber);
+    case '-':
+      return String(firstNumber - secondNumber);
+    case '*':
+      return String(firstNumber * secondNumber);
+    default:
+  }
+};
 
 const game = () => {
   console.log(`Hello, ${name}!`);
@@ -14,10 +24,10 @@ const game = () => {
     const currentQuestion = (`${currentFirstNumber} ${currentOperator} ${currentSecondNumber}`);
     const userAnswer = (answer(currentQuestion));
 
-    if (userAnswer === expectedAnswer(currentQuestion)) {
+    if (userAnswer === expectedAnswer(currentFirstNumber, currentSecondNumber, currentOperator)) {
       console.log('Correct!');
     } else {
-      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${expectedAnswer(currentQuestion)}'.`);
+      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${expectedAnswer(currentFirstNumber, currentSecondNumber, currentOperator)}'.`);
       console.log(`Let's try again, ${name}!`);
       return;
     }
