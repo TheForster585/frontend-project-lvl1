@@ -25,6 +25,7 @@ const game = () => {
       i = -1;
     }
   }
+  console.log(`Congratulations, ${name}!`);
 };
 
 export default game;
