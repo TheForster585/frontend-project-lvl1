@@ -12,6 +12,11 @@ https://asciinema.org/a/406909
 
 https://asciinema.org/a/406912
 
+<h2>2. Brain Calc</h2>
+<p>You will have to calculate an expression we show you. Be careful, in case of a mistake you won't get a second chance.</p>
+
+https://asciinema.org/a/406931
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/TheForster585/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/TheForster585/frontend-project-lvl1/actions)
 
