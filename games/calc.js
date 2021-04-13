@@ -10,6 +10,7 @@ const expectedAnswer = (firstNumber, secondNumber, operator) => {
     case '*':
       return String(firstNumber * secondNumber);
     default:
+      return null;
   }
 };
 
