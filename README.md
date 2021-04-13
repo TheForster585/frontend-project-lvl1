@@ -17,6 +17,11 @@ https://asciinema.org/a/406912
 
 https://asciinema.org/a/406931
 
+<h2>3. Brain GCD</h2>
+<p>You will have to find the greatest common divisor of two numbers.</p>
+
+https://asciinema.org/a/406943
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/TheForster585/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/TheForster585/frontend-project-lvl1/actions)
 
