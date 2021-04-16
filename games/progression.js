@@ -33,7 +33,7 @@ const game = () => {
     } else {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${missingNumber}'.`);
       console.log(`Let's try again, ${name}!`);
-      i = -1;
+      return;
     }
   }
   console.log(`Congratulations, ${name}!`);

@@ -1,3 +1,10 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/TheForster585/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/TheForster585/frontend-project-lvl1/actions)
+
+<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+
+![Linter Status](https://github.com/TheForster585/frontend-project-lvl1/actions/workflows/linter.yml/badge.svg)
+
 <h1>Hello! This is Brain Games!</h1>
 
 <p>We are pleased to offer a few exciting games about numbers. Here you'll find how to deal with them.</p>
@@ -36,10 +43,3 @@ https://asciinema.org/a/407677
 <p>To run the game, type <strong>brain-prime</strong>.</p>
 
 https://asciinema.org/a/407678
-
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/TheForster585/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/TheForster585/frontend-project-lvl1/actions)
-
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
-
-![Linter Status](https://github.com/TheForster585/frontend-project-lvl1/actions/workflows/linter.yml/badge.svg)
