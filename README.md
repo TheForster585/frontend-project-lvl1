@@ -22,6 +22,11 @@ https://asciinema.org/a/406931
 
 https://asciinema.org/a/406943
 
+<h2>4. Brain Progression</h2>
+<p>You have to guess what the next number of the progression is.</p>
+
+https://asciinema.org/a/407677
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/TheForster585/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/TheForster585/frontend-project-lvl1/actions)
 
