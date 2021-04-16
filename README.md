@@ -18,7 +18,7 @@ https://asciinema.org/a/406909
 <p>We will show a random number to you. You have to guess, if it is even or not. If you think it's even, answer yes, if you don't, answer no.</p>
 <p>To run the game, type <strong>brain-even</strong>.</p>
 
-https://asciinema.org/a/406912
+https://asciinema.org/a/407698
 
 <h2>2. Brain Calc</h2>
 <p>You will have to calculate an expression we show you. Be careful, in case of a mistake you won't get a second chance.</p>
@@ -30,16 +30,16 @@ https://asciinema.org/a/406931
 <p>You will have to find the greatest common divisor of two numbers.</p>
 <p>To run the game, type <strong>brain-gcd</strong>.</p>
 
-https://asciinema.org/a/406943
+https://asciinema.org/a/407700
 
 <h2>4. Brain Progression</h2>
 <p>You have to guess what the next number of the progression is.</p>
 <p>To run the game, type <strong>brain-progression</strong>.</p>
 
-https://asciinema.org/a/407677
+https://asciinema.org/a/407701
 
 <h2>4. Brain Prime</h2>
 <p>You have to guess if the given number is prime or not.</p>
 <p>To run the game, type <strong>brain-prime</strong>.</p>
 
-https://asciinema.org/a/407678
+https://asciinema.org/a/407704
